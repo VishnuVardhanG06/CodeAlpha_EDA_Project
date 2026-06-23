@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is a complete internship-level Exploratory Data Analysis application for a real-world Zepto product dataset from Kaggle. It automatically selects the richest CSV file from `data/raw/`, cleans product catalog data, analyzes pricing and customer behavior, generates statistical tests, creates visualizations, and writes recruiter-friendly business reports.
+This project is an Exploratory Data Analysis application for a real-world Zepto product dataset from Kaggle. It automatically selects the richest CSV file from `data/raw/`, cleans product catalog data, analyzes pricing and customer behavior, generates statistical tests, creates visualizations, and writes recruiter-friendly business reports.
 
 ## Business Problem
 
